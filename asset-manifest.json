@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/brandcolors/static/css/main.c7796d5f.css",
+    "main.js": "/brandcolors/static/js/main.847b7287.js",
+    "static/js/787.ee42d0dc.chunk.js": "/brandcolors/static/js/787.ee42d0dc.chunk.js",
+    "index.html": "/brandcolors/index.html",
+    "main.c7796d5f.css.map": "/brandcolors/static/css/main.c7796d5f.css.map",
+    "main.847b7287.js.map": "/brandcolors/static/js/main.847b7287.js.map",
+    "787.ee42d0dc.chunk.js.map": "/brandcolors/static/js/787.ee42d0dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7796d5f.css",
+    "static/js/main.847b7287.js"
+  ]
+}
